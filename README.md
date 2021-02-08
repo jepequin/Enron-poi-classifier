@@ -30,3 +30,11 @@ The data set for this project is in the pickle file "final_project_dataset.pkl".
 
 A starter code is also provided. However, we choose not to use it and instead build the classifier from scratch. 
 
+## USAGE
+
+There are three models presented in the course: Decision Trees, Gaussian Naive Bayes, and Support vector classifiers. In this project we offer the user the possibility of choosing (input) one the following:
+
+- Random Forest Classifier.
+- Gaussian Naive Bayes. 
+- Support Vector Classifier
+
